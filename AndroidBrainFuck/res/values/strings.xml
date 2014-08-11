@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">AndroidBrainFuck</string>
+    <string name="hello_world"> </string>
+    <string name="action_settings">Settings</string>
+    
+    <color name="bg">#86c2e4</color>
+
+</resources>
